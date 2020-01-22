@@ -1,2 +1,9 @@
 # smartcontract-app-demo
-Reactsj
+Tech:
+- Reactjs
+- Web3js
+- Truffle
+
+Tools:
+- metamask
+- Ganache
